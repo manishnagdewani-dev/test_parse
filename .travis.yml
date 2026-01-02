@@ -12,7 +12,6 @@ addons:
         - libmbedtls-dev
         - gdb
     homebrew:
-        update: false
         packages:
         - openssl
 
